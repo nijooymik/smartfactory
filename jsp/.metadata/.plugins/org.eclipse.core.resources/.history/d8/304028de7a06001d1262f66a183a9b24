@@ -1,0 +1,53 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>7월 넷째주 시간표</title>
+</head>
+<body>
+	<table border=1>
+		<tr bgcolor=#005555><td></td>
+			<td>월요일</td>
+			<td>화요일</td>
+			<td>수요일</td>
+			<td>목요일</td>
+			<td>금요일</td>
+			<td>토요일</td>
+			<td>일요일</td>
+		</tr>
+		<tr><td colspan=6>아침</td>
+		<td rowspan=4>잠</td>
+		<td rowspan=4>잠</td>
+		</tr>
+		<tr><td>오전</td>
+			<td>수업</td>
+			<td>수업</td>
+			<td>수업</td>
+			<td>수업</td>
+			<td>수업</td>
+		</tr>
+		<tr><td colspan=6>점심</td>
+		</tr>
+		<tr><td>오후</td>
+			<td>수업</td>
+			<td>수업</td>
+			<td>수업</td>
+			<td>수업</td>
+			<td>수업</td>
+		</tr>
+		<tr><td colspan=8>저녁</td>
+		</tr>
+		<tr><td>밤</td>
+			<td>라디오</td>
+			<td>라디오</td>
+			<td>게임</td>
+			<td>유튜브</td>
+			<td>유튜브</td>
+			<td>유튜브</td>
+			<td>공부</td>
+		</tr>
+	</table>
+</body>
+</html>

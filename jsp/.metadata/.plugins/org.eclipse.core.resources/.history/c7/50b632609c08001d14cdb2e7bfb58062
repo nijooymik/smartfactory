@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+	pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<center>
+		<h2>세션 삭제</h2>
+		<hr>
+		<%
+		out.print("세션 생성 시간 : " + session.getCreationTime() + "초<br>");
+		out.print("클라이언트의 해당세션 마지막접근시간 : " + session.getLastAccessedTime() + "초<br>");
+		out.print("세션 유지 시간 : " + (session.getLastAccessedTime() - session.getCreationTime()) + "초<br>");
+		out.print("세션 유효 시간 : " + session.getMaxInactiveInterval() + "초<br>");
+		%>
+	</center>
+</body>
+</html>

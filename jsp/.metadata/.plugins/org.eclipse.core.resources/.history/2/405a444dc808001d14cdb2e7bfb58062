@@ -1,0 +1,8 @@
+package com.jsp;
+
+public class AddrBean {
+	private String username;
+	private String tel;
+	private String email;
+	private String gender;
+}

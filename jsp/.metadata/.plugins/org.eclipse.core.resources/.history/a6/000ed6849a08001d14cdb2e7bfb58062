@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+	pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<center>
+		<h2>세션 생성</h2>
+		<hr>
+		<%=
+	session.setAttribute("id","admin");
+	session.setAttribute("name","장준영");
+	
+	out.print("세션 생성<br>");
+	%>
+		세션 속성(id) : <%=session.getAttribute("id") %><br> 
+		세션 속성(name) : <%=session.getAttribute("name") %><br>
+	</center>
+</body>
+</html>

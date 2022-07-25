@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<table border=1 width=100% height="300">
+	<tr>
+		<th colspan=5>평생교육원 강좌소개 - 2020년 2학기</th>	
+	</tr>
+	<tr>
+		<th width="80">강좌이름</th>
+		<th width="80">강의자</th>
+		<th width="80">소개</th>
+		<th width="80">강좌코드</th>
+		<th width="80">실습비</th>	
+	</tr>
+	<tr>
+		<td width="40">3</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>	
+	</tr>
+	<tr>
+		<td width="200">4</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="80">5</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="40"></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	</table>
+</body>
+</html>

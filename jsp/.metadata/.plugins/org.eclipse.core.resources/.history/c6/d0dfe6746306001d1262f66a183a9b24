@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>로그인 폼</title>
+</head>
+<body>
+	<h3>로그인 폼</h3>
+	<hr>
+	<form>
+	<form action="list.html"></form>
+		아이디	<input type="ID" size=10> <br>
+		패스워드	<input type="password" size=10> <br>
+		<input type="submit" value="확인">
+		<input type="reset" value="취소">
+	</form>
+	
+</body>
+</html>

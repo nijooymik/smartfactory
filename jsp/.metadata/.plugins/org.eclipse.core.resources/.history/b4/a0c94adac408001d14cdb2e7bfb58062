@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+	pageEncoding="EUC-KR"%>
+<%
+request.setCharacterEncoding("euc-kr");
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<div align=center>
+		<h2>주소록 등록</h2>
+		<hr>
+		<form action="addr_add.jsp" method="post" name="form1">
+			<table>
+			
+			</table>
+		</form>
+	</div>
+</body>
+</html>

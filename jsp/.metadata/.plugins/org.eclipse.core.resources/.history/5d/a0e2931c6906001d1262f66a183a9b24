@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<h3>자기소개서</h3>
+	<hr>
+	<form>
+		이름 : <input type="text" value="" name="name"><br>
+		암호 : <input type="password" value="" name="pw"><br>
+		자소서 : <textarea cols="20" rows="5">
+		자기 소개서를 입력하시오.
+		</textarea><br>
+		
+		나라 : <input type="text" list="con">
+			<datalist id="con">
+			<option value="대한민국">
+			<option value="일본">
+			<option value="중국">
+			<option value="필리핀">
+		</datalist><br>
+		
+		<input type="button" value="버튼1"><br>
+		<button type="button" value="버튼2"></button><br>
+		<input type="image" src="img/apple.png" alt="이미지 버튼">
+	</form>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<h2>글자 꾸미기</h2>
+	<hr>
+	
+	<b>글자         &nbsp;          &nbsp;        진하게</b><br>
+	<i>기울임꼴</i><br>
+	<em>강조</em><br>
+	<code>나는 코드</code><br>
+	x<sup>2</sup><br>
+	x<sup>2</sup><br>
+	<strong>강하게</strong><br>
+</body>
+</html>

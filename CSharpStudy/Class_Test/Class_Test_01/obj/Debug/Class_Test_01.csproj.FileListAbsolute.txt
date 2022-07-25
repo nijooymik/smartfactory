@@ -1,0 +1,26 @@
+D:\CSharpStudy\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.csproj.AssemblyReference.cache
+D:\CSharpStudy\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.csproj.SuggestedBindingRedirects.cache
+D:\CSharpStudy\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.Main.resources
+D:\CSharpStudy\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.M_Run.resources
+D:\CSharpStudy\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.M_Stop.resources
+D:\CSharpStudy\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.Properties.Resources.resources
+D:\CSharpStudy\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.csproj.GenerateResource.cache
+D:\CSharpStudy\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.csproj.CoreCompileInputs.cache
+D:\CSharpStudy\Class_Test\Class_Test_01\bin\Debug\Class_Test_01.exe.config
+D:\CSharpStudy\Class_Test\Class_Test_01\bin\Debug\Class_Test_01.exe
+D:\CSharpStudy\Class_Test\Class_Test_01\bin\Debug\Class_Test_01.pdb
+D:\CSharpStudy\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.exe
+D:\CSharpStudy\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.pdb
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\bin\Debug\Class_Test_01.exe.config
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\bin\Debug\Class_Test_01.exe
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\bin\Debug\Class_Test_01.pdb
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.csproj.AssemblyReference.cache
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.csproj.SuggestedBindingRedirects.cache
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.Main.resources
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.M_Run.resources
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.M_Stop.resources
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.Properties.Resources.resources
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.csproj.GenerateResource.cache
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.csproj.CoreCompileInputs.cache
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.exe
+D:\CSharpStudy (2)\Class_Test\Class_Test_01\obj\Debug\Class_Test_01.pdb

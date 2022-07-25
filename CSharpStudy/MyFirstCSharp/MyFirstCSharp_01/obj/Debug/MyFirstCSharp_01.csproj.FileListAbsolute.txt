@@ -1,0 +1,114 @@
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\bin\Debug\MyFirstCSharp_01.exe.config
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\bin\Debug\MyFirstCSharp_01.exe
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\bin\Debug\MyFirstCSharp_01.pdb
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.csproj.AssemblyReference.cache
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.csproj.SuggestedBindingRedirects.cache
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Form1.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Properties.Resources.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.csproj.GenerateResource.cache
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.csproj.CoreCompileInputs.cache
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.exe
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.pdb
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap03_Class.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap03_Class_Test.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap05_StringFind.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap05_StringSplit.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap05_TestReview.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap06_Null.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap07_Operator.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap08_Method_Return.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap03_Static_Const.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.csproj.AssemblyReference.cache
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.csproj.SuggestedBindingRedirects.cache
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap03_Class.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap03_Class_Test.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap03_Static_Const.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap05_StringFind.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap05_StringSplit.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap05_TestReview.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap06_Null.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap07_Operator.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap08_Method_Return.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Form1.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Properties.Resources.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.csproj.GenerateResource.cache
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.csproj.CoreCompileInputs.cache
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.exe
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.pdb
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\bin\Debug\MyFirstCSharp_01.exe.config
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\bin\Debug\MyFirstCSharp_01.exe
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\bin\Debug\MyFirstCSharp_01.pdb
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_IF_BranchingStatement.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap04_DataChange.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_IF_BranchingStatement_Test3.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap05_StringChange.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_IF_BranchingStatement_Test2.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_Switch_BranchingStatement.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_Switch_BranchingStatement_Test.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_Switch_BranchingStatement_Test_2.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_Switch_BranchingStatement_Test3.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap05_StringChange2.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap10_Loop.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.For_문_실습_메소드_간추리기.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap10_Loop01_For_Test.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap10_Loop02_While.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap10_Loop03_Foreach.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Array.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Array_test.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Array_test2.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Middle_Exam_TestCode_2.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Middle_Exam_TestCode_2_2.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Middle_Exam_TestCode_2_Review.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap10_MiddleTestCode.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Test02_Review.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap12_Exception_TryCatch.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Middel_Test_T.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Middel_Test_T2.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Test04_Review.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Test04.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Test05_Review.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Test05.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Form2.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Form3.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Form4.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap15_Exam01.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap15_Exam02.resources
+D:\CSharpStudy (2)\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap15_Exam03.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Test04_Review.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Test04.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap04_DataChange.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap05_StringChange.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap05_StringChange2.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_IF_BranchingStatement_Test2.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_IF_BranchingStatement.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_IF_BranchingStatement_Test3.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_Switch_BranchingStatement.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_Switch_BranchingStatement_Test.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_Switch_BranchingStatement_Test3.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap09_Switch_BranchingStatement_Test_2.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap10_Loop.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap10_Loop01_For_Test.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap10_Loop02_While.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap10_Loop03_Foreach.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap10_MiddleTestCode.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Array.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Array_test.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Array_test2.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Middel_Test_T2.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Middel_Test_T.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Middle_Exam_TestCode_2.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Middle_Exam_TestCode_2_2.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Middle_Exam_TestCode_2_Review.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Test02_Review.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Test05_Review.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap12_Exception_TryCatch.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap15_Exam01.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap15_Exam02.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap15_Exam03.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.For_문_실습_메소드_간추리기.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Test05.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Form2.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Form3.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Form4.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap11_Test07_Review.resources
+D:\CSharpStudy\MyFirstCSharp\MyFirstCSharp_01\obj\Debug\MyFirstCSharp_01.Chap14_Property.resources

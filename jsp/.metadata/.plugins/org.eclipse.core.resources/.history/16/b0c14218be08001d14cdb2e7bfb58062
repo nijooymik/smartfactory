@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+	pageEncoding="EUC-KR"%>
+<!-- useBean사용 -->
+<jsp:useBean id="login" scope="page" class="com.jsp.LoginBean">
+	<jsp:setProperty name="login" property="*" />
+</jsp:useBean>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+	pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<center>
+		<h2>쿠키 생성</h2>
+		<hr>
+		<%
+// 쿠키 객체 생성
+Cookie cookie - new Cookie("id","admin");
+cookie.setMaxAge(10);
+response.addCookie(cookie);
+
+out.print("쿠키 정보 생성됨 <br>");'
+%>
+	</center>
+</body>
+</html>

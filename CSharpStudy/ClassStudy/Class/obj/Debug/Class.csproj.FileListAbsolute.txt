@@ -1,0 +1,27 @@
+D:\CSharpStudy\ClassStudy\Class\bin\Debug\Class.exe.config
+D:\CSharpStudy\ClassStudy\Class\bin\Debug\Class.exe
+D:\CSharpStudy\ClassStudy\Class\bin\Debug\Class.pdb
+D:\CSharpStudy\ClassStudy\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+D:\CSharpStudy\ClassStudy\Class\obj\Debug\Class.csproj.SuggestedBindingRedirects.cache
+D:\CSharpStudy\ClassStudy\Class\obj\Debug\Class.Main.resources
+D:\CSharpStudy\ClassStudy\Class\obj\Debug\Class.M_Run.resources
+D:\CSharpStudy\ClassStudy\Class\obj\Debug\Class.M_Stop.resources
+D:\CSharpStudy\ClassStudy\Class\obj\Debug\Class.Properties.Resources.resources
+D:\CSharpStudy\ClassStudy\Class\obj\Debug\Class.csproj.GenerateResource.cache
+D:\CSharpStudy\ClassStudy\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\CSharpStudy\ClassStudy\Class\obj\Debug\Class.exe
+D:\CSharpStudy\ClassStudy\Class\obj\Debug\Class.pdb
+D:\CSharpStudy (2)\ClassStudy\Class\bin\Debug\Class.exe.config
+D:\CSharpStudy (2)\ClassStudy\Class\bin\Debug\Class.exe
+D:\CSharpStudy (2)\ClassStudy\Class\bin\Debug\Class.pdb
+D:\CSharpStudy (2)\ClassStudy\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+D:\CSharpStudy (2)\ClassStudy\Class\obj\Debug\Class.csproj.SuggestedBindingRedirects.cache
+D:\CSharpStudy (2)\ClassStudy\Class\obj\Debug\Class.Chapter03_Static_Const.resources
+D:\CSharpStudy (2)\ClassStudy\Class\obj\Debug\Class.Main.resources
+D:\CSharpStudy (2)\ClassStudy\Class\obj\Debug\Class.M_Run.resources
+D:\CSharpStudy (2)\ClassStudy\Class\obj\Debug\Class.M_Stop.resources
+D:\CSharpStudy (2)\ClassStudy\Class\obj\Debug\Class.Properties.Resources.resources
+D:\CSharpStudy (2)\ClassStudy\Class\obj\Debug\Class.csproj.GenerateResource.cache
+D:\CSharpStudy (2)\ClassStudy\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\CSharpStudy (2)\ClassStudy\Class\obj\Debug\Class.exe
+D:\CSharpStudy (2)\ClassStudy\Class\obj\Debug\Class.pdb

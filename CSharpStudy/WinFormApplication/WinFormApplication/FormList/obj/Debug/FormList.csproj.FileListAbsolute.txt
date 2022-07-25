@@ -1,0 +1,10 @@
+D:\CSharpStudy\WinFormApplication\WinFormApplication\FormList\bin\Debug\FormList.dll.config
+D:\CSharpStudy\WinFormApplication\WinFormApplication\FormList\bin\Debug\FormList.dll
+D:\CSharpStudy\WinFormApplication\WinFormApplication\FormList\bin\Debug\FormList.pdb
+D:\CSharpStudy\WinFormApplication\WinFormApplication\FormList\obj\Debug\FormList.csproj.AssemblyReference.cache
+D:\CSharpStudy\WinFormApplication\WinFormApplication\FormList\obj\Debug\FormList.Properties.Resources.resources
+D:\CSharpStudy\WinFormApplication\WinFormApplication\FormList\obj\Debug\FormList.csproj.GenerateResource.cache
+D:\CSharpStudy\WinFormApplication\WinFormApplication\FormList\obj\Debug\FormList.csproj.CoreCompileInputs.cache
+D:\CSharpStudy\WinFormApplication\WinFormApplication\FormList\obj\Debug\FormList.dll
+D:\CSharpStudy\WinFormApplication\WinFormApplication\FormList\obj\Debug\FormList.pdb
+D:\CSharpStudy\WinFormApplication\WinFormApplication\FormList\obj\Debug\FormList.Form01_MDI_TEST.resources

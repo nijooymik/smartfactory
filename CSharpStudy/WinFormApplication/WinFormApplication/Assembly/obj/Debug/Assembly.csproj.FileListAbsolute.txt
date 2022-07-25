@@ -1,0 +1,6 @@
+D:\CSharpStudy\WinFormApplication\WinFormApplication\Assembly\bin\Debug\Assembly.dll
+D:\CSharpStudy\WinFormApplication\WinFormApplication\Assembly\bin\Debug\Assembly.pdb
+D:\CSharpStudy\WinFormApplication\WinFormApplication\Assembly\obj\Debug\Assembly.csproj.AssemblyReference.cache
+D:\CSharpStudy\WinFormApplication\WinFormApplication\Assembly\obj\Debug\Assembly.csproj.CoreCompileInputs.cache
+D:\CSharpStudy\WinFormApplication\WinFormApplication\Assembly\obj\Debug\Assembly.dll
+D:\CSharpStudy\WinFormApplication\WinFormApplication\Assembly\obj\Debug\Assembly.pdb

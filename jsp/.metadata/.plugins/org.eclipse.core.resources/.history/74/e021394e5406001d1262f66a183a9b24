@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<table border=1 align=center width="500" height="500">
+		<tr bgcolor="green">
+			<th>이름</th>
+			<td align=center>주소</td>
+		</tr>
+		<tr>
+			<th>박남길</th>
+			<td>서울</td>
+		</tr>
+		<tr>
+			<th>유주연</th>
+			<td>분당</td>
+		</tr>
+		<tr>
+			<td colspan=2>합치기</td>
+		</tr>
+	</table>
+</body>
+</html>

@@ -1,0 +1,11 @@
+package kr.co.mlec.controller;
+
+import javax.servlet.http.HttpServletRequest;
+
+public class BoardWriteFormController {
+
+	public String handleRequest(HttpServletRequest request, 
+			HttpServletResponse response) throws Exception {
+		
+	}
+}

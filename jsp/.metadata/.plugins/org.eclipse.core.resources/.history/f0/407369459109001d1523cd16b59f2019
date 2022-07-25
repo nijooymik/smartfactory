@@ -1,0 +1,40 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+	pageEncoding="EUC-KR"%>
+<%@page import="java.util.*, com.jsp.AddrBook"%>
+<%
+request.setCharacterEncoding("euc-kr");
+%>
+<jsp:useBean id="gb" scope="page" class="com.jsp.AddrBean" />
+<jsp:useBean id="addrbook" class="com.jsp.AddrBook" />
+<jsp:setProperty name="addrbook" property="*" />
+<%
+String action = request.getParameter("action");
+if (action.equals("insert")) { // 삽입
+	if (gb.insertDB(addrbook)) {
+		response.sendRedirect("addrbook_control.jsp?action=list");
+	} else
+		throw new Exception("DB입력 오류");
+} else if (action.equals("list")) { // 목록
+	ArrayList<AddrBook> datas = gb.getDBList();
+	request.setAttribute("datas", datas);
+	pageContext.forward("addrbook_list.jsp");
+} else if (action.equals("edit")) { // 수정
+
+} else if (action.equals("update")) { // 수정 적용
+
+} else if (action.equals("delete")) { // 삭제
+
+} else {
+
+}
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<%
+	out.print("ip주소 : "+request.getRemoteAddr()+"<br>");
+	out.print("host주소 : "+request.getRemoteHost()+"<br>");
+	out.print("port주소 : "+request.getRemotePost()+"<br>");
+	out.print("user주소 : "+request.getRemoteUser()+"<br>");
+%>
+	요청정보 프로토콜 : <%=request.getProtocol() %><br>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>리스트 만들기</title>
+</head>
+<body>
+	<h3>리스트 만들기</h3>
+	<hr>
+	<ul type="circle">
+		<li>아메리카노</li>
+		<li>카푸치노</li>
+		<li type="square">카페라떼</li>
+		<li>아인슈페너</li>
+	</ul>
+	
+	<ol>
+		<li>아메리카노</li>
+		<li>카푸치노</li>
+		<li>카페라떼</li>
+		<li>아인슈페너</li>
+	</ul>
+</body>
+</html>

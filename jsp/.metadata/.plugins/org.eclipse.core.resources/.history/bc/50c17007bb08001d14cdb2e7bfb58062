@@ -1,0 +1,31 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+	pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<center>
+		<h1>로그인</h1>
+		<hr>
+		<table border=1>
+			<tr>
+				<td colspan=2 align=center>로그인</td>
+			</tr>
+			<tr>
+				<td>아이디</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>비밀번호</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td colspan=2 align=center></td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>

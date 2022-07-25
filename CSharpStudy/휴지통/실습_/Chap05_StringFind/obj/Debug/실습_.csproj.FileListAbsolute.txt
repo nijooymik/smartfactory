@@ -1,0 +1,6 @@
+D:\CSharpStudy (2)\실습_\Chap05_StringFind\obj\Debug\실습_.csproj.AssemblyReference.cache
+D:\CSharpStudy (2)\실습_\Chap05_StringFind\obj\Debug\실습_.csproj.SuggestedBindingRedirects.cache
+D:\CSharpStudy (2)\실습_\Chap05_StringFind\obj\Debug\Chap05_StringFind.Form1.resources
+D:\CSharpStudy (2)\실습_\Chap05_StringFind\obj\Debug\Chap05_StringFind.Properties.Resources.resources
+D:\CSharpStudy (2)\실습_\Chap05_StringFind\obj\Debug\실습_.csproj.GenerateResource.cache
+D:\CSharpStudy (2)\실습_\Chap05_StringFind\obj\Debug\실습_.csproj.CoreCompileInputs.cache

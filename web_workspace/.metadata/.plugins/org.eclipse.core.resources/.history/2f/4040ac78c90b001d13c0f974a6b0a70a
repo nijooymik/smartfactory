@@ -1,0 +1,40 @@
+package kr.co.mlec;
+
+import java.io.IOException;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import kr.co.mlec.controller.BoardListController;
+
+@WebServlet("*.do")
+public class DispatcherServlet extends HttpServlet {
+
+	@Override
+	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String context = request.getContextPath();
+		System.out.println("context : " + context);
+		String uri = request.getRequestURI();
+		uri = uri.substring(context.length());
+		System.out.println("호출 uri : " + uri);
+		
+		String callPage = "";
+		switch(uri) {
+		case "/board/list.do" :
+			BoardListController list = new BoardListController();
+			callPage = list.handleRequest(request);
+			break;
+		case "/board/writeForm.do":
+			System.out.println("새글등록 서비스...");
+			break;
+		}
+		
+		RequestDispatcher dispatcher = request.getRequestDispatcher(callPage);
+		dispatcher.forward(request, response);
+	}
+
+}

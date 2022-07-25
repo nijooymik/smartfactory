@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<h3>링크 만들기</h3>
+	<hr>
+	
+	<a href="list.html">리스트만들기</a><p>
+	<a href="http://www.naver.com">네이버로 고고싱</a><p>
+	<a href="#">나는 암것도 아님.</a>
+</body>
+</html>
